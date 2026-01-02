@@ -1,0 +1,1 @@
+"""Domain module for the todo application."""
